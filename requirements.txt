@@ -1,2 +1,6 @@
 pandas==2.2.2
 jupyterlab==4.2.3
+pandas==2.2.2
+missingno==0.5.2
+matplotlib==3.9.1
+scikit-learn==1.5.1
